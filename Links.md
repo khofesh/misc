@@ -8,3 +8,5 @@ https://github.com/cjbarber/ToolsOfTheTrade
 https://chanind.github.io/china/2019/01/19/launching-an-app-or-website-in-china.html
 # archive website
 https://github.com/pirate/ArchiveBox
+# how not to hire software engineer
+http://tonsky.me/blog/hiring/
