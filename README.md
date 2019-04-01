@@ -1,2 +1,2 @@
 # misc
-contains links to interesting websites' contains
+contains links to websites' contents that I find interesting.
