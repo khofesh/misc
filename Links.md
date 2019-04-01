@@ -10,3 +10,4 @@ https://chanind.github.io/china/2019/01/19/launching-an-app-or-website-in-china.
 https://github.com/pirate/ArchiveBox
 # how not to hire software engineer
 http://tonsky.me/blog/hiring/
+https://news.ycombinator.com/item?id=19541617
