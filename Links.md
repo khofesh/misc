@@ -11,3 +11,5 @@ https://github.com/pirate/ArchiveBox
 # how not to hire software engineer
 http://tonsky.me/blog/hiring/
 https://news.ycombinator.com/item?id=19541617
+# discipline
+https://firstround.com/review/the-founders-guide-to-discipline-lessons-from-fronts-mathilde-collin/
