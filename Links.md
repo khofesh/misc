@@ -13,3 +13,5 @@ http://tonsky.me/blog/hiring/
 https://news.ycombinator.com/item?id=19541617
 # discipline
 https://firstround.com/review/the-founders-guide-to-discipline-lessons-from-fronts-mathilde-collin/
+# reverse shell
+https://alamot.github.io/reverse_shells/
