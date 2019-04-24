@@ -1,21 +1,23 @@
-# open source SVG images
+1. open source SVG images
 https://undraw.co/illustrations
-# For Fun Project
+2. For Fun Project
 https://github.com/arturbien/React95
-# The ggplot flipbook
+3. The ggplot flipbook
 https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1
-# Async documentation
+4. Async documentation
 https://github.com/caolan/async/blob/v1.5.2/README.md
-# HackerNews Tools of the trade
+5. HackerNews Tools of the trade
 https://github.com/cjbarber/ToolsOfTheTrade
-# How to
+6. How to
 https://chanind.github.io/china/2019/01/19/launching-an-app-or-website-in-china.html
-# archive website
+7. archive website
 https://github.com/pirate/ArchiveBox
-# how not to hire software engineer
+8. how not to hire software engineer
 http://tonsky.me/blog/hiring/
 https://news.ycombinator.com/item?id=19541617
-# discipline
+9. discipline
 https://firstround.com/review/the-founders-guide-to-discipline-lessons-from-fronts-mathilde-collin/
-# reverse shell
+10. reverse shell
 https://alamot.github.io/reverse_shells/
+11. This guy is awesome
+https://codepen.io/b29/pen/yQXQrg
