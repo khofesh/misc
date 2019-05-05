@@ -21,3 +21,5 @@
 [https://alamot.github.io/reverse_shells/](https://alamot.github.io/reverse_shells/)
 11. This guy is awesome \
 [https://codepen.io/b29/pen/yQXQrg](https://codepen.io/b29/pen/yQXQrg)
+12. sanitize html \
+[https://github.com/vuejs/vue/issues/6333#issuecomment-421262712](https://github.com/vuejs/vue/issues/6333#issuecomment-421262712)
