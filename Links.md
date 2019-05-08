@@ -23,3 +23,5 @@
 [https://codepen.io/b29/pen/yQXQrg](https://codepen.io/b29/pen/yQXQrg)
 12. sanitize html \
 [https://github.com/vuejs/vue/issues/6333#issuecomment-421262712](https://github.com/vuejs/vue/issues/6333#issuecomment-421262712)
+13. The client-side rendered virtual DOM tree is not matching server-rendered content.
+[https://github.com/nuxt/nuxt.js/issues/1700#issuecomment-331099596](https://github.com/nuxt/nuxt.js/issues/1700#issuecomment-331099596)
