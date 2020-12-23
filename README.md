@@ -53,3 +53,8 @@ fs.inotify.max_user_watches = 524288
 references: \
 https://gist.github.com/grenade/5aa3894695ead8f4f840c0bfa6e2be34 \
 https://facebook.github.io/watchman/docs/troubleshooting.html#poison-opendir 
+
+## youtube-dl
+```
+while ! youtube-dl -r 300K https://links -c --socket-timeout 5; do echo DISCONNECTED; sleep 5; done
+```
