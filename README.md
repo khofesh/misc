@@ -6,6 +6,7 @@ contains links to websites' contents that I find interesting.
 - [Free Course](#free-course)
 - [Stackoverflow](#stackoverflow)
 - [Interesting](#interesting)
+- [Notes](#notes)
 
 # Free Course
 1. [Standford CS 253 web security](https://web.stanford.edu/class/cs253/)
@@ -21,7 +22,9 @@ contains links to websites' contents that I find interesting.
 1. https://capacitorjs.com/
 2. https://react-spectrum.adobe.com/react-aria/getting-started.html
 
-# Fedora Watchman Error
+# Notes
+
+## Fedora Watchman Error
 The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
 
 how to fix this:
