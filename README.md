@@ -21,6 +21,9 @@ contains links to websites' contents that I find interesting.
 # Interesting
 1. https://capacitorjs.com/
 2. https://react-spectrum.adobe.com/react-aria/getting-started.html
+3. https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html
+4. https://react-query.tanstack.com/
+5. https://dev.to/giteden/top-5-react-chart-libraries-for-2020-1amb
 
 # Notes
 
