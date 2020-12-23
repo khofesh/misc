@@ -58,3 +58,8 @@ https://facebook.github.io/watchman/docs/troubleshooting.html#poison-opendir
 ```
 while ! youtube-dl -r 300K https://links -c --socket-timeout 5; do echo DISCONNECTED; sleep 5; done
 ```
+get one subtitle
+```
+youtube-dl --write-sub --sub-lang en --skip-download URL 
+```
+https://superuser.com/questions/927523/how-to-download-only-subtitles-of-videos-using-youtube-dl
