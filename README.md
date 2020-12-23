@@ -5,6 +5,7 @@ contains links to websites' contents that I find interesting.
 - [Tutorials](#tutorials)
 - [Free Course](#free-course)
 - [Stackoverflow](#stackoverflow)
+- [Interesting](#interesting)
 
 # Free Course
 1. [Standford CS 253 web security](https://web.stanford.edu/class/cs253/)
@@ -15,6 +16,10 @@ contains links to websites' contents that I find interesting.
 
 # Stackoverflow
 1. [What is the JavaScript version of sleep()?](https://stackoverflow.com/questions/951021/what-is-the-javascript-version-of-sleep)
+
+# Interesting
+1. https://capacitorjs.com/
+2. https://react-spectrum.adobe.com/react-aria/getting-started.html
 
 # Fedora Watchman Error
 The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
