@@ -65,3 +65,30 @@ get one subtitle
 youtube-dl --write-sub --sub-lang en --skip-download URL 
 ```
 https://superuser.com/questions/927523/how-to-download-only-subtitles-of-videos-using-youtube-dl
+
+## flutter formatting on vscode
+"editor.defaultFormatter": "Dart-Code.dart-code", is the important part
+```
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false,
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+  },
+  "dart.debugExternalLibraries": false,
+  "dart.debugSdkLibraries": false,
+  "editor.fontSize": 12,
+  "prettier.packageManager": "yarn"
+}
+```
