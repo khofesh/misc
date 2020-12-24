@@ -26,6 +26,7 @@ contains links to websites' contents that I find interesting.
 5. https://dev.to/giteden/top-5-react-chart-libraries-for-2020-1amb
 6. https://github.com/cheeaun/hackerweb-native-2
 7. https://github.com/developit/mitt
+8. https://dev.to/dabit3/7-tips-for-breaking-into-devrel-7jk
 
 # Notes
 
