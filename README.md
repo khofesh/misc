@@ -10,6 +10,7 @@ contains links to websites' contents that I find interesting.
 
 # Free Course
 1. [Standford CS 253 web security](https://web.stanford.edu/class/cs253/)
+2. [CS9: Problem-Solving for the CS Technical Interview](https://web.stanford.edu/class/cs9/)
 
 # Tutorials
 1. [Exploiting Buffer (nodejs)](https://snyk.io/blog/exploiting-buffer/)
