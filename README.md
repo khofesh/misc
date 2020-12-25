@@ -20,13 +20,13 @@ contains links to websites' contents that I find interesting.
 1. [What is the JavaScript version of sleep()?](https://stackoverflow.com/questions/951021/what-is-the-javascript-version-of-sleep)
 
 # Interesting
-1. https://capacitorjs.com/
+1. https://capacitorjs.com/ (A cross-platform native runtime for web apps.)
 2. https://react-spectrum.adobe.com/react-aria/getting-started.html
 3. https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html
-4. https://react-query.tanstack.com/
+4. https://react-query.tanstack.com/ (Performant and powerful data synchronization for React)
 5. https://dev.to/giteden/top-5-react-chart-libraries-for-2020-1amb
 6. https://github.com/cheeaun/hackerweb-native-2
-7. https://github.com/developit/mitt
+7. https://github.com/developit/mitt (Tiny 200 byte functional event emitter / pubsub.)
 8. https://dev.to/dabit3/7-tips-for-breaking-into-devrel-7jk
 9. https://fusejs.io/ (Fuse.js is a powerful, lightweight fuzzy-search library, with zero dependencies)
 10. https://lunrjs.com/ (A bit like Solr, but much smaller and not as bright.)
