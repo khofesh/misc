@@ -31,6 +31,7 @@ contains links to websites' contents that I find interesting.
 9. https://fusejs.io/ (Fuse.js is a powerful, lightweight fuzzy-search library, with zero dependencies)
 10. https://lunrjs.com/ (A bit like Solr, but much smaller and not as bright.)
 11. https://medium.com/flutter/learning-flutters-new-navigation-and-routing-system-7c9068155ade (flutter's new navigation and routing system)
+12. https://entgo.io/ (An entity framework for Go)
 
 # Notes
 
