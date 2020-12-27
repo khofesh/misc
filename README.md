@@ -35,6 +35,8 @@ contains links to websites' contents that I find interesting.
 13. https://rauchg.com/2020/next-for-vercel#frontend-focus (Next for Vercel)
 14. https://cyberthreat.id/read/1306/Bocoran-Cara-Kerja-Cellebrite-Sedot-Data-Ponsel-Vanessa (Universal Forensic Extraction Device)
 15. https://chakra-ui.com/docs/comparison (chakra ui)
+16. https://ionicframework.com/react 
+17. https://github.com/mlynch/nextjs-tailwind-capacitor (A starting point for building an iOS, Android, and Progressive Web App with Tailwind CSS, React, and Capacitor)
 
 # Notes
 
