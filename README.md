@@ -73,6 +73,12 @@ youtube-dl --write-sub --sub-lang en --skip-download URL
 ```
 https://superuser.com/questions/927523/how-to-download-only-subtitles-of-videos-using-youtube-dl
 
+change filename
+```
+youtube-dl https://link --output "something.%(ext)s"
+```
+https://stackoverflow.com/questions/32784639/changing-name-of-the-video-while-downloading-via-youtube-dl
+
 ## flutter formatting on vscode
 "editor.defaultFormatter": "Dart-Code.dart-code", is the important part
 ```
