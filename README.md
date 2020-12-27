@@ -34,6 +34,7 @@ contains links to websites' contents that I find interesting.
 12. https://entgo.io/ (An entity framework for Go)
 13. https://rauchg.com/2020/next-for-vercel#frontend-focus (Next for Vercel)
 14. https://cyberthreat.id/read/1306/Bocoran-Cara-Kerja-Cellebrite-Sedot-Data-Ponsel-Vanessa (Universal Forensic Extraction Device)
+15. https://chakra-ui.com/docs/comparison (chakra ui)
 
 # Notes
 
