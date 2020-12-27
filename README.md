@@ -33,6 +33,7 @@ contains links to websites' contents that I find interesting.
 11. https://medium.com/flutter/learning-flutters-new-navigation-and-routing-system-7c9068155ade (flutter's new navigation and routing system)
 12. https://entgo.io/ (An entity framework for Go)
 13. https://rauchg.com/2020/next-for-vercel#frontend-focus (Next for Vercel)
+14. https://cyberthreat.id/read/1306/Bocoran-Cara-Kerja-Cellebrite-Sedot-Data-Ponsel-Vanessa (Universal Forensic Extraction Device)
 
 # Notes
 
