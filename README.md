@@ -37,6 +37,7 @@ contains links to websites' contents that I find interesting.
 15. https://chakra-ui.com/docs/comparison (chakra ui)
 16. https://ionicframework.com/react 
 17. https://github.com/mlynch/nextjs-tailwind-capacitor (A starting point for building an iOS, Android, and Progressive Web App with Tailwind CSS, React, and Capacitor)
+18. https://github.com/ben-rogerson/twin.macro (Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components and goober) at build time.)
 
 # Notes
 
