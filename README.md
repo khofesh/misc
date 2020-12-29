@@ -110,3 +110,14 @@ https://stackoverflow.com/questions/32784639/changing-name-of-the-video-while-do
   "prettier.packageManager": "yarn"
 }
 ```
+
+## Fedora 33 wasm_exec.js not found
+error:
+```
+cp "$(go env GOROOT)/misc/wasm/wasm_exec.js" .
+cp: cannot stat '/usr/lib/golang/misc/wasm/wasm_exec.js': No such file or directory
+```
+solution:
+```
+sudo dnf install golang-misc
+```
