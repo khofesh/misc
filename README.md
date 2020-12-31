@@ -39,6 +39,7 @@ contains links to websites' contents that I find interesting.
 17. https://github.com/mlynch/nextjs-tailwind-capacitor (A starting point for building an iOS, Android, and Progressive Web App with Tailwind CSS, React, and Capacitor)
 18. https://github.com/ben-rogerson/twin.macro (Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components and goober) at build time.)
 19. https://www.reactnative.express/ (The all-in-one guide to React Native)
+20. https://animationbook.codedaily.io/flatten-offset/ (master react native animations course)
 
 # Notes
 
