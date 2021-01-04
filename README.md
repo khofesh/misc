@@ -40,6 +40,7 @@ contains links to websites' contents that I find interesting.
 18. https://github.com/ben-rogerson/twin.macro (Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components and goober) at build time.)
 19. https://www.reactnative.express/ (The all-in-one guide to React Native)
 20. https://animationbook.codedaily.io/flatten-offset/ (master react native animations course)
+21. https://github.com/aniftyco/awesome-tailwindcss (Awesome things related to Tailwind CSS)
 
 # Notes
 
