@@ -7,6 +7,7 @@ contains links to websites' contents that I find interesting.
 - [Stackoverflow](#stackoverflow)
 - [Interesting](#interesting)
 - [Notes](#notes)
+- [Investment](#investment)
 
 # Free Course
 1. [Standford CS 253 web security](https://web.stanford.edu/class/cs253/)
@@ -41,6 +42,9 @@ contains links to websites' contents that I find interesting.
 19. https://www.reactnative.express/ (The all-in-one guide to React Native)
 20. https://animationbook.codedaily.io/flatten-offset/ (master react native animations course)
 21. https://github.com/aniftyco/awesome-tailwindcss (Awesome things related to Tailwind CSS)
+
+# Investment
+1. https://fs.blog/2019/02/investment-algorithm/ (An Investment Approach That Works)
 
 # Notes
 
