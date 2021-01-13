@@ -43,6 +43,7 @@ contains links to websites' contents that I find interesting.
 20. https://animationbook.codedaily.io/flatten-offset/ (master react native animations course)
 21. https://github.com/aniftyco/awesome-tailwindcss (Awesome things related to Tailwind CSS)
 22. https://osint.sh/buckets/ (Find public buckets on AWS S3 & Azure Blob by a keyword)
+23. https://www.eddyvinck.com/projects/windows-xp/ (windows xp)
 
 # Investment
 1. https://fs.blog/2019/02/investment-algorithm/ (An Investment Approach That Works)
