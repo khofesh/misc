@@ -45,6 +45,7 @@ contains links to websites' contents that I find interesting.
 22. https://osint.sh/buckets/ (Find public buckets on AWS S3 & Azure Blob by a keyword)
 23. https://www.eddyvinck.com/projects/windows-xp/ (windows xp)
 24. https://code.nsa.gov/ (NSA open source software)
+25. https://medium.com/ovrsea/react-re-rendering-purecomponents-and-memoization-553a2cc863c3 (purecomponent and memoization)
 
 # Investment
 1. https://fs.blog/2019/02/investment-algorithm/ (An Investment Approach That Works)
