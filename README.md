@@ -50,6 +50,9 @@ contains links to websites' contents that I find interesting.
 # Investment
 1. https://fs.blog/2019/02/investment-algorithm/ (An Investment Approach That Works)
 
+# Audio
+1. https://www.headphonesty.com/2017/04/5-types-headphone-drivers-know/
+
 # Notes
 
 ## Fedora Watchman Error
