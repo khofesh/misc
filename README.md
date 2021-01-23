@@ -46,6 +46,7 @@ contains links to websites' contents that I find interesting.
 23. https://www.eddyvinck.com/projects/windows-xp/ (windows xp)
 24. https://code.nsa.gov/ (NSA open source software)
 25. https://medium.com/ovrsea/react-re-rendering-purecomponents-and-memoization-553a2cc863c3 (purecomponent and memoization)
+26. https://corellium.com/blog/linux-m1 (How We Ported Linux to the M1)
 
 # Investment
 1. https://fs.blog/2019/02/investment-algorithm/ (An Investment Approach That Works)
