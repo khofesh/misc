@@ -47,6 +47,7 @@ contains links to websites' contents that I find interesting.
 24. https://code.nsa.gov/ (NSA open source software)
 25. https://medium.com/ovrsea/react-re-rendering-purecomponents-and-memoization-553a2cc863c3 (purecomponent and memoization)
 26. https://corellium.com/blog/linux-m1 (How We Ported Linux to the M1)
+27. https://sitejs.org/ (Small Web construction set.)
 
 # Investment
 1. https://fs.blog/2019/02/investment-algorithm/ (An Investment Approach That Works)
