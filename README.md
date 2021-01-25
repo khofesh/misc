@@ -50,6 +50,7 @@ contains links to websites' contents that I find interesting.
 26. https://corellium.com/blog/linux-m1 (How We Ported Linux to the M1)
 27. https://sitejs.org/ (Small Web construction set.)
 28. https://github.com/pavlobu/deskreen (Deskreen turns any device with a web browser to a second screen for your computer)
+29. https://github.com/daffainfo/AllAboutBugBounty (All about bug websites (bypasses, payloads, and etc))
 
 # Investment
 1. https://fs.blog/2019/02/investment-algorithm/ (An Investment Approach That Works)
