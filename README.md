@@ -54,6 +54,7 @@ contains links to websites' contents that I find interesting.
 
 # Investment
 1. https://fs.blog/2019/02/investment-algorithm/ (An Investment Approach That Works)
+2. https://www.thejakartapost.com/adv/2020/12/16/tiger-brokers-helping-indonesian-investors-trade-global-markets-supported-by-nasdaq-data.html (tiger brokers)
 
 # Audio
 1. https://www.headphonesty.com/2017/04/5-types-headphone-drivers-know/
