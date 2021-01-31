@@ -8,6 +8,7 @@ contains links to websites' contents that I find interesting.
 - [Interesting](#interesting)
 - [Investment](#investment)
 - [Audio](#audio)
+- [AI](#ai)
 - [Notes](#notes)
 
 # Free Course
@@ -58,6 +59,9 @@ contains links to websites' contents that I find interesting.
 
 # Audio
 1. https://www.headphonesty.com/2017/04/5-types-headphone-drivers-know/
+
+# AI
+1. https://www.technologyreview.com/2021/01/29/1017065/ai-image-generation-is-racist-sexist/ (An AI saw a cropped photo of AOC. It autocompleted her wearing a bikini.)
 
 # Notes
 
