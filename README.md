@@ -53,6 +53,7 @@ contains links to websites' contents that I find interesting.
 28. https://github.com/pavlobu/deskreen (Deskreen turns any device with a web browser to a second screen for your computer)
 29. https://github.com/daffainfo/AllAboutBugBounty (All about bug websites (bypasses, payloads, and etc))
 30. https://github.com/togiberlin/ui-ux-designer-roadmap (Roadmap on becoming a UI/UX designer in 2017)
+31. https://github.com/gocraft/work
 
 # Investment
 1. https://fs.blog/2019/02/investment-algorithm/ (An Investment Approach That Works)
