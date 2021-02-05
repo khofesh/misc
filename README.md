@@ -55,6 +55,7 @@ contains links to websites' contents that I find interesting.
 30. https://github.com/togiberlin/ui-ux-designer-roadmap (Roadmap on becoming a UI/UX designer in 2017)
 31. https://github.com/gocraft/work
 32. https://regex101.com/ (regular expression 101)
+33. https://github.com/microsoft/rushstack (rushstack)
 
 # Investment
 1. https://fs.blog/2019/02/investment-algorithm/ (An Investment Approach That Works)
