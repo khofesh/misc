@@ -58,6 +58,7 @@ contains links to websites' contents that I find interesting.
 33. https://github.com/microsoft/rushstack (rushstack)
 34. https://github.com/sundowndev/hacker-roadmap (hacker roadmap)
 35. https://robotmoon.com/ssh-tunnels/ (A visual guide to SSH tunnels)
+36. https://justgetmydata.com/ (JustGetMyData)
 
 # Investment
 1. https://fs.blog/2019/02/investment-algorithm/ (An Investment Approach That Works)
