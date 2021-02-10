@@ -59,6 +59,7 @@ contains links to websites' contents that I find interesting.
 34. https://github.com/sundowndev/hacker-roadmap (hacker roadmap)
 35. https://robotmoon.com/ssh-tunnels/ (A visual guide to SSH tunnels)
 36. https://justgetmydata.com/ (JustGetMyData)
+37. https://github.com/rust-lang/rustlings (crab Small exercises to get you used to reading and writing Rust code!)
 
 # Investment
 1. https://fs.blog/2019/02/investment-algorithm/ (An Investment Approach That Works)
