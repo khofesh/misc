@@ -162,3 +162,17 @@ solution:
 ```
 sudo dnf install golang-misc
 ```
+
+## remove old kernels (Fedora)
+list currently installed kernels:
+```
+$ rpm -q kernel-core
+kernel-core-5.10.9-201.fc33.x86_64
+kernel-core-5.10.14-200.fc33.x86_64
+```
+remove one of them:
+```
+$ sudo dnf remove kernel-core-5.10.9-201.fc33.x86_64
+```
+
+source: https://ask.fedoraproject.org/t/old-kernels-removal/7026
