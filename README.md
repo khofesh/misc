@@ -15,6 +15,9 @@ contains links to websites' contents that I find interesting.
 # Free Course
 1. [Standford CS 253 web security](https://web.stanford.edu/class/cs253/)
 2. [CS9: Problem-Solving for the CS Technical Interview](https://web.stanford.edu/class/cs9/)
+3. [blockchain and money](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/) \
+    https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn
+
 
 # Tutorials
 1. [Exploiting Buffer (nodejs)](https://snyk.io/blog/exploiting-buffer/)
