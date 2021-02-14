@@ -9,6 +9,7 @@ contains links to websites' contents that I find interesting.
 - [Investment](#investment)
 - [Audio](#audio)
 - [AI](#ai)
+- [Substack](#substack)
 - [Notes](#notes)
 
 # Free Course
@@ -71,6 +72,10 @@ contains links to websites' contents that I find interesting.
 
 # AI
 1. https://www.technologyreview.com/2021/01/29/1017065/ai-image-generation-is-racist-sexist/ (An AI saw a cropped photo of AOC. It autocompleted her wearing a bikini.)
+
+# Substack
+1. https://bariweiss.substack.com/
+2. https://astralcodexten.substack.com/
 
 # Notes
 
