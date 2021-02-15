@@ -192,6 +192,8 @@ new Date('2021-02-17 08:30:00.667')
 2021-02-17T08:30:00.667Z
 ```
 
+this could result in an unwanted behavior, especially when you try to save calendar events (react-native-calendar-events)
+
 solution:
 ```
 import {parseISO} from 'date-fns';
