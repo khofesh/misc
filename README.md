@@ -176,3 +176,25 @@ $ sudo dnf remove kernel-core-5.10.9-201.fc33.x86_64
 ```
 
 source: https://ask.fedoraproject.org/t/old-kernels-removal/7026
+
+## new Date() on react native 
+new Date() on node.js
+```
+> startDate = '2021-02-17 08:30:00.667'
+'2021-02-17 08:30:00.667'
+> formatted = new Date(startDate)
+2021-02-17T01:30:00.667Z
+```
+
+on react native
+```
+new Date('2021-02-17 08:30:00.667')
+2021-02-17T08:30:00.667Z
+```
+
+solution:
+```
+import {parseISO} from 'date-fns';
+
+parseISO('2021-02-17 08:30:00.667')
+```
