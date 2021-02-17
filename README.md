@@ -67,6 +67,7 @@ https://github.com/source-academy/sicp  Structure and Interpretation of Computer
 36. https://justgetmydata.com/ (JustGetMyData)
 37. https://github.com/rust-lang/rustlings (crab Small exercises to get you used to reading and writing Rust code!)
 38. https://adbshell.com/
+39. https://appicon.co/#app-icon (app icon generator)
 
 proguard:
 https://medium.com/androiddevelopers/practical-proguard-rules-examples-5640a3907dc9 (Practical ProGuard rules examples)
