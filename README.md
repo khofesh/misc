@@ -208,3 +208,9 @@ parseISO('2021-02-17 08:30:00.667')
 ```
 
 https://date-fns.org/v2.17.0/docs/parseISO
+
+## nested flex
+https://stackoverflow.com/questions/52439969/react-native-nested-flex/52440065
+
+## random number of fixed length
+https://stackoverflow.com/questions/21816595/how-to-generate-a-random-number-of-fixed-length-using-javascript/21816636
