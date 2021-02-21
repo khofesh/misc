@@ -4,7 +4,6 @@ contains links to websites' contents that I find interesting.
 # Table of Contents:
 - [Free Course](#free-course)
 - [Tutorials](#tutorials)
-- [Stackoverflow](#stackoverflow)
 - [Interesting](#interesting)
 - [Investment](#investment)
 - [Audio](#audio)
@@ -20,13 +19,9 @@ https://github.com/source-academy/sicp  Structure and Interpretation of Computer
 3. [blockchain and money](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/) \
     https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn
 
-
 # Tutorials
 1. [Exploiting Buffer (nodejs)](https://snyk.io/blog/exploiting-buffer/)
 2. [Goof vulnerable app](https://github.com/snyk/goof)
-
-# Stackoverflow
-1. [What is the JavaScript version of sleep()?](https://stackoverflow.com/questions/951021/what-is-the-javascript-version-of-sleep)
 
 # Interesting
 1. https://capacitorjs.com/ (A cross-platform native runtime for web apps.)
@@ -69,6 +64,8 @@ https://github.com/source-academy/sicp  Structure and Interpretation of Computer
 38. https://adbshell.com/
 39. https://appicon.co/#app-icon (app icon generator)
 40. https://github.com/dabit3/awesome-aws-amplify (Curated list of AWS Amplify Resources)
+41. https://github.com/gurugio/lowlevelprogramming-university (How to be low-level programmer)
+42. https://github.com/jwasham/coding-interview-university (A complete computer science study plan to become a software engineer.)
 
 proguard:
 https://medium.com/androiddevelopers/practical-proguard-rules-examples-5640a3907dc9 (Practical ProGuard rules examples)
@@ -216,3 +213,6 @@ https://stackoverflow.com/questions/52439969/react-native-nested-flex/52440065
 
 ## random number of fixed length
 https://stackoverflow.com/questions/21816595/how-to-generate-a-random-number-of-fixed-length-using-javascript/21816636
+
+## What is the JavaScript version of sleep()?
+https://stackoverflow.com/questions/951021/what-is-the-javascript-version-of-sleep
