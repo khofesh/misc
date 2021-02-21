@@ -68,6 +68,7 @@ https://github.com/source-academy/sicp  Structure and Interpretation of Computer
 37. https://github.com/rust-lang/rustlings (crab Small exercises to get you used to reading and writing Rust code!)
 38. https://adbshell.com/
 39. https://appicon.co/#app-icon (app icon generator)
+40. https://github.com/dabit3/awesome-aws-amplify (Curated list of AWS Amplify Resources)
 
 proguard:
 https://medium.com/androiddevelopers/practical-proguard-rules-examples-5640a3907dc9 (Practical ProGuard rules examples)
