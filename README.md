@@ -67,6 +67,7 @@ https://github.com/source-academy/sicp  Structure and Interpretation of Computer
 40. https://github.com/dabit3/awesome-aws-amplify (Curated list of AWS Amplify Resources)
 41. https://github.com/gurugio/lowlevelprogramming-university (How to be low-level programmer)
 42. https://github.com/jwasham/coding-interview-university (A complete computer science study plan to become a software engineer.)
+43. https://github.com/DidierRLopes/GamestonkTerminal (The next best thing after Bloomberg Terminal)
 
 proguard:
 https://medium.com/androiddevelopers/practical-proguard-rules-examples-5640a3907dc9 (Practical ProGuard rules examples)
