@@ -9,6 +9,7 @@ contains links to websites' contents that I find interesting.
 - [Audio](#audio)
 - [AI](#ai)
 - [Substack](#substack)
+- [Other](#other)
 - [Notes](#notes)
 
 # Free Course
@@ -84,6 +85,9 @@ https://medium.com/androiddevelopers/practical-proguard-rules-examples-5640a3907
 # Substack
 1. https://bariweiss.substack.com/
 2. https://astralcodexten.substack.com/
+
+# Other
+[Mereka menyoroti penerapan syariat Islam di Aceh](https://www.bbc.com/indonesia/berita_indonesia/2015/08/150817_indonesia_gam_syariatislam.amp)
 
 # Notes
 
