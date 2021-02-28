@@ -221,3 +221,41 @@ https://stackoverflow.com/questions/21816595/how-to-generate-a-random-number-of-
 
 ## What is the JavaScript version of sleep()?
 https://stackoverflow.com/questions/951021/what-is-the-javascript-version-of-sleep
+
+## Format number in react
+source: https://github.com/asendia/severance-pay
+```
+import React from 'react';
+import NumberFormat from 'react-number-format';
+
+interface NumberFormatCustomProps {
+  inputRef: (instance: NumberFormat | null) => void;
+  onChange: (event: { target: { name: string; value: string } }) => void;
+  name: string;
+}
+
+function CurrencyInput(props: NumberFormatCustomProps) {
+  const { inputRef, onChange, ...other } = props;
+
+  return (
+    <NumberFormat
+      {...other}
+      getInputRef={inputRef}
+      onValueChange={(values) => {
+        onChange({
+          target: {
+            name: props.name,
+            value: values.value,
+          },
+        });
+      }}
+      thousandSeparator
+      isNumericString
+      prefix='Rp '
+    />
+  );
+}
+
+export default CurrencyInput;
+```
+
