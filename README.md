@@ -22,6 +22,7 @@ contains links to websites' contents that I find interesting.
 - [What is the JavaScript version of sleep()?](#what-is-the-javascript-version-of-sleep)
 - [Format number in react](#format-number-in-react)
 - [Vim setup on fedora](#vim-setup-on-fedora)
+- [Vim tab key 4 spaces](#vim-tab-key-4-spaces)
 
 # Free Course
 https://github.com/source-academy/sicp  Structure and Interpretation of Computer Programs, Second Edition, JavaScript Adaptation
@@ -465,3 +466,17 @@ $ su -c "mkdir /root/.vim && ln -s ~/.vim/bundle /root/.vim"
 if Unknown function: vundle#begin
 
 https://stackoverflow.com/questions/25444680/unknown-function-vundlebegin
+
+## Vim tab key 4 spaces
+
+```
+filetype plugin indent on
+" show existing tab with 4 spaces width
+set tabstop=4
+" when indenting with '>', use 4 spaces width
+set shiftwidth=4
+" On pressing tab, insert 4 spaces
+set expandtab
+```
+
+https://stackoverflow.com/a/234578
