@@ -10,8 +10,16 @@ contains links to websites' contents that I find interesting.
 [AI](#ai) \
 [Substack](#substack) \
 [Other](#other) \
-[Notes](#notes) \
+[Notes](#notes) 
 - [Fedora Watchman Error](#fedora-watchman-error)
+- [youtube-dl](#youtube-dl)
+- [flutter formatting on vscode](#flutter-formatting-on-vscode)
+- [Fedora 33 wasm_exec.js not found](#fedora-33-wasm-exec.js-not-found)
+- [remove old kernels (Fedora)](#remove-old-kernels-fedora)
+- [new Date() on react native](#new-date-on-react-native)
+- [nested flex](#nested-flex)
+- [random number of fixed length](#random-number-of-fixed-length)
+- [What is the JavaScript version of sleep()?](#what-is-the-javascript-version-of-sleep)
 
 # Free Course
 https://github.com/source-academy/sicp  Structure and Interpretation of Computer Programs, Second Edition, JavaScript Adaptation
