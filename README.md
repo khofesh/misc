@@ -451,3 +451,6 @@ Create a symbolic link to the plugins directory and set Vim as alias for vi in /
 $ su -c "mkdir /root/.vim && ln -s ~/.vim/bundle /root/.vim"
 ```
 
+if Unknown function: vundle#begin
+
+https://stackoverflow.com/questions/25444680/unknown-function-vundlebegin
