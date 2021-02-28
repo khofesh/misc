@@ -20,6 +20,8 @@ contains links to websites' contents that I find interesting.
 - [nested flex](#nested-flex)
 - [random number of fixed length](#random-number-of-fixed-length)
 - [What is the JavaScript version of sleep()?](#what-is-the-javascript-version-of-sleep)
+- [Format number in react](#format-number-in-react)
+- [Vim setup on fedora](#vim-setup-on-fedora)
 
 # Free Course
 https://github.com/source-academy/sicp  Structure and Interpretation of Computer Programs, Second Edition, JavaScript Adaptation
