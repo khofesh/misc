@@ -2,15 +2,16 @@
 contains links to websites' contents that I find interesting.
 
 # Table of Contents:
-- [Free Course](#free-course)
-- [Tutorials](#tutorials)
-- [Interesting](#interesting)
-- [Investment](#investment)
-- [Audio](#audio)
-- [AI](#ai)
-- [Substack](#substack)
-- [Other](#other)
-- [Notes](#notes)
+[Free Course](#free-course) \
+[Tutorials](#tutorials) \
+[Interesting](#interesting) \
+[Investment](#investment) \
+[Audio](#audio) \
+[AI](#ai) \
+[Substack](#substack) \
+[Other](#other) \
+[Notes](#notes) \
+- [Fedora Watchman Error](#fedora-watchman-error)
 
 # Free Course
 https://github.com/source-academy/sicp  Structure and Interpretation of Computer Programs, Second Edition, JavaScript Adaptation
