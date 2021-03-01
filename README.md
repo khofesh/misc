@@ -80,6 +80,8 @@ https://github.com/source-academy/sicp  Structure and Interpretation of Computer
 41. https://github.com/gurugio/lowlevelprogramming-university (How to be low-level programmer)
 42. https://github.com/jwasham/coding-interview-university (A complete computer science study plan to become a software engineer.)
 43. https://github.com/DidierRLopes/GamestonkTerminal (The next best thing after Bloomberg Terminal)
+44. https://github.com/inancgumus/learngo (1000+ Hand-Crafted Go Examples, Exercises, and Quizzes)
+45. https://github.com/liamg/traitor (Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins arrow_up skull_and_crossbones)
 
 proguard:
 https://medium.com/androiddevelopers/practical-proguard-rules-examples-5640a3907dc9 (Practical ProGuard rules examples)
