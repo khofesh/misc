@@ -82,6 +82,7 @@ https://github.com/source-academy/sicp  Structure and Interpretation of Computer
 43. https://github.com/DidierRLopes/GamestonkTerminal (The next best thing after Bloomberg Terminal)
 44. https://github.com/inancgumus/learngo (1000+ Hand-Crafted Go Examples, Exercises, and Quizzes)
 45. https://github.com/liamg/traitor (Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins arrow_up skull_and_crossbones)
+46. https://github.com/naptha/tesseract.js#tesseractjs (Pure Javascript OCR for more than 100 Languages booktadadesktop_computer)
 
 proguard:
 https://medium.com/androiddevelopers/practical-proguard-rules-examples-5640a3907dc9 (Practical ProGuard rules examples)
