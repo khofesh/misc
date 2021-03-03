@@ -85,6 +85,8 @@ https://github.com/source-academy/sicp  Structure and Interpretation of Computer
 45. https://github.com/liamg/traitor (Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins arrow_up skull_and_crossbones)
 46. https://github.com/naptha/tesseract.js#tesseractjs (Pure Javascript OCR for more than 100 Languages booktadadesktop_computer)
 47. https://www.reactnative.express/
+48. https://thorstenball.com/blog/2014/11/20/unicorn-unix-magic-tricks/ (Unicorn Unix Magic Tricks)
+49. https://github.com/pdfcpu/pdfcpu (A PDF processor written in Go.)
 
 proguard:
 https://medium.com/androiddevelopers/practical-proguard-rules-examples-5640a3907dc9 (Practical ProGuard rules examples)
