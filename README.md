@@ -491,6 +491,14 @@ get ipsw from https://ipsw.me/download/iPhone8,1/18D52
 wget -c http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/001-97948/4723C303-5083-425F-AA7B-66485F4D6625/iPhone_4.7_14.4_18D52_Restore.ipsw
 ```
 
+check sum
+```
+[fahmad@ryzen ~]$ sha1sum iPhone_4.7_14.4_18D52_Restore.ipsw 
+b2bc246798e036e1b119995a8a51a28518ead5d6  iPhone_4.7_14.4_18D52_Restore.ipsw
+[fahmad@ryzen ~]$ md5sum iPhone_4.7_14.4_18D52_Restore.ipsw 
+62cc61fd412bb2b52efcc80c66182832  iPhone_4.7_14.4_18D52_Restore.ipsw
+```
+
 install required softwares and libs:
 
 ```
