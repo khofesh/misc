@@ -23,6 +23,7 @@ contains links to websites' contents that I find interesting.
 - [Format number in react](#format-number-in-react)
 - [Vim setup on fedora](#vim-setup-on-fedora)
 - [Vim tab key 4 spaces](#vim-tab-key-4-spaces)
+- [Restore iPhone on Fedora](#restore-iphone-on-fedora)
 
 # Free Course
 https://github.com/source-academy/sicp  Structure and Interpretation of Computer Programs, Second Edition, JavaScript Adaptation
@@ -483,3 +484,45 @@ set expandtab
 ```
 
 https://stackoverflow.com/a/234578
+
+## Restore iPhone on Fedora
+get ipsw from https://ipsw.me/download/iPhone8,1/18D52
+```
+wget -c http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/001-97948/4723C303-5083-425F-AA7B-66485F4D6625/iPhone_4.7_14.4_18D52_Restore.ipsw
+```
+
+install required softwares and libs:
+
+```
+sudo dnf install libimobiledevice-devel
+sudo dnf install usbmuxd libplist
+```
+
+and follow the installation process here: https://github.com/libimobiledevice/idevicerestore
+
+connect to usb
+```
+[fahmad@ryzen ~]$  lsusb
+Bus 006 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 005 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 004 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 003 Device 003: ID 046d:c534 Logitech, Inc. Unifying Receiver
+Bus 003 Device 002: ID 04d9:1818 Holtek Semiconductor, Inc. Keyboard [Diatec Filco Majestouch 2]
+Bus 003 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 002 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 001 Device 014: ID 05ac:12a8 Apple, Inc. iPhone 5/5C/5S/6/SE
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+```
+
+proceed
+```
+[fahmad@ryzen ~]$ sudo idevicerestore -l
+Found device in Recovery mode
+Identified device as n71map, iPhone8,1
+The following firmwares are currently being signed for iPhone8,1:
+  [1] 14.4 (build 18D52)
+Select the firmware you want to restore: 1
+Selected firmware 14.4 (build 18D52)
+Verifying 'iPhone_4.7_14.4_18D52_Restore.ipsw'...
+Checksum matches.
+```
