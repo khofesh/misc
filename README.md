@@ -522,7 +522,7 @@ Bus 001 Device 014: ID 05ac:12a8 Apple, Inc. iPhone 5/5C/5S/6/SE
 Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
 ```
 
-proceed
+change path to where iPhone_4.7_14.4_18D52_Restore.ipsw resides, then proceed
 ```
 [fahmad@ryzen ~]$ sudo idevicerestore -l
 Found device in Recovery mode
