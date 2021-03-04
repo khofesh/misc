@@ -24,6 +24,7 @@ contains links to websites' contents that I find interesting.
 - [Vim setup on fedora](#vim-setup-on-fedora)
 - [Vim tab key 4 spaces](#vim-tab-key-4-spaces)
 - [Restore iPhone on Fedora](#restore-iphone-on-fedora)
+- [Remove old snap revision](#remove-old-snap-revision)
 
 # Free Course
 https://github.com/source-academy/sicp  Structure and Interpretation of Computer Programs, Second Edition, JavaScript Adaptation
@@ -537,3 +538,19 @@ Selected firmware 14.4 (build 18D52)
 Verifying 'iPhone_4.7_14.4_18D52_Restore.ipsw'...
 Checksum matches.
 ```
+
+# Remove old snap revision
+
+```
+#!/bin/bash
+# Removes old revisions of snaps
+# CLOSE ALL SNAPS BEFORE RUNNING THIS
+
+set -eu
+
+snap list --all | awk '/disabled/{print $1, $3}' |
+    while read snapname revision; do
+        snap remove "$snapname" --revision="$revision"
+```
+
+https://forum.snapcraft.io/t/snap-command-to-remove-old-snap-revisions/7685/3
