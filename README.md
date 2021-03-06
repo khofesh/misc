@@ -25,6 +25,7 @@ contains links to websites' contents that I find interesting.
 - [Vim tab key 4 spaces](#vim-tab-key-4-spaces)
 - [Restore iPhone on Fedora](#restore-iphone-on-fedora)
 - [Remove old snap revision](#remove-old-snap-revision)
+- [Compile objective-c on Fedora](#compile-objective-c-on-fedora)
 
 # Free Course
 https://github.com/source-academy/sicp  Structure and Interpretation of Computer Programs, Second Edition, JavaScript Adaptation
@@ -554,3 +555,31 @@ snap list --all | awk '/disabled/{print $1, $3}' |
 ```
 
 https://forum.snapcraft.io/t/snap-command-to-remove-old-snap-revisions/7685/3
+
+# Compile objective-c on Fedora
+
+dependencies: 
+```
+sudo dnf install gnustep-make gnustep-base gnustep-base-devel libpng libpng-devel libtiff libtiff-devel libobjc libxml2 libxml2-devel libX11-devel libXt-devel libjpeg libjpeg-devel gcc-objc
+```
+
+test.m:
+```
+#import <Foundation/Foundation.h>
+
+int main (int argc, const char * argv[]) {
+   NSAutoreleasePool * pool = [[NSAutoreleasePool alloc] init];
+   
+   NSLog(@"hello world");
+   [pool drain];
+   return 0;
+}
+```
+
+compile: 
+```
+gcc `gnustep-config --objc-flags` -L /usr/lib64/GNUstep/Libraries/ -lgnustep-base -lobjc test.m -o test
+```
+
+https://stackoverflow.com/questions/11766326/objective-c-compilation-error \
+https://www.tutorialspoint.com/objective_c/objective_c_environment_setup.htm
