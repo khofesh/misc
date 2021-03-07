@@ -26,6 +26,7 @@ contains links to websites' contents that I find interesting.
 - [Restore iPhone on Fedora](#restore-iphone-on-fedora)
 - [Remove old snap revision](#remove-old-snap-revision)
 - [Compile objective-c on Fedora](#compile-objective-c-on-fedora)
+- [Stubby on fedora](#stubby-on-fedora)
 
 # Free Course
 https://github.com/source-academy/sicp  Structure and Interpretation of Computer Programs, Second Edition, JavaScript Adaptation
@@ -583,3 +584,7 @@ gcc `gnustep-config --objc-flags` -L /usr/lib64/GNUstep/Libraries/ -lgnustep-bas
 
 https://stackoverflow.com/questions/11766326/objective-c-compilation-error \
 https://www.tutorialspoint.com/objective_c/objective_c_environment_setup.htm
+
+# Stubby on fedora
+
+https://www.linuxbabe.com/ubuntu/ubuntu-stubby-dns-over-tls
