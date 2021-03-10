@@ -7,6 +7,11 @@ https://soliditylang.org/
 
 https://docs.soliditylang.org/en/v0.8.2/solidity-by-example.html
 
+# NFT
+https://hackernoon.com/issuing-non-fungible-tokens-nfts-a-how-to-guide-ckj3wz2
+
+https://github.com/near-examples/NFT
+
 # Accidently sent ETH with BEP20 transfer network
 
 So, I accidently withdraw ETH from tokocrypto using BEP20 network.
