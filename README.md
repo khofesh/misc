@@ -91,6 +91,7 @@ https://github.com/source-academy/sicp  Structure and Interpretation of Computer
 48. https://thorstenball.com/blog/2014/11/20/unicorn-unix-magic-tricks/ (Unicorn Unix Magic Tricks)
 49. https://github.com/pdfcpu/pdfcpu (A PDF processor written in Go.)
 50. https://github.com/florinpop17/app-ideas (A Collection of application ideas which can be used to improve your coding skills.)
+51. https://www.thonky.com/qr-code-tutorial/introduction
 
 proguard:
 https://medium.com/androiddevelopers/practical-proguard-rules-examples-5640a3907dc9 (Practical ProGuard rules examples)
