@@ -92,6 +92,7 @@ https://github.com/source-academy/sicp  Structure and Interpretation of Computer
 49. https://github.com/pdfcpu/pdfcpu (A PDF processor written in Go.)
 50. https://github.com/florinpop17/app-ideas (A Collection of application ideas which can be used to improve your coding skills.)
 51. https://www.thonky.com/qr-code-tutorial/introduction
+52. https://rytisbiel.com/2021/03/06/darker-corners-of-go/ (Darker Corners of Go)
 
 proguard:
 https://medium.com/androiddevelopers/practical-proguard-rules-examples-5640a3907dc9 (Practical ProGuard rules examples)
