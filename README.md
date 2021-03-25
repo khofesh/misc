@@ -27,6 +27,7 @@ contains links to websites' contents that I find interesting.
 - [Remove old snap revision](#remove-old-snap-revision)
 - [Compile objective-c on Fedora](#compile-objective-c-on-fedora)
 - [Stubby on fedora](#stubby-on-fedora)
+- [Flatpak](#flatpak)
 
 # Free Course
 https://github.com/source-academy/sicp  Structure and Interpretation of Computer Programs, Second Edition, JavaScript Adaptation
@@ -592,3 +593,6 @@ https://www.tutorialspoint.com/objective_c/objective_c_environment_setup.htm
 # Stubby on fedora
 
 https://www.linuxbabe.com/ubuntu/ubuntu-stubby-dns-over-tls
+
+# flatpak
+https://github.com/flatpak/flatpak/issues/3712
