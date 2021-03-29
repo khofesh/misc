@@ -602,6 +602,10 @@ https://github.com/flatpak/flatpak/issues/3712
 # Analyze apk file
 tools: https://ibotpeaches.github.io/Apktool/
 
+https://github.com/ashishb/android-security-awesome
+
+https://developer.android.com/studio/build/apk-analyzer
+
 ```
 apktool d app-arm64-v8a-release.apk
 ```
