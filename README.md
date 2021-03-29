@@ -28,6 +28,7 @@ contains links to websites' contents that I find interesting.
 - [Compile objective-c on Fedora](#compile-objective-c-on-fedora)
 - [Stubby on fedora](#stubby-on-fedora)
 - [Flatpak](#flatpak)
+- [Analyze apk file](#analyze-apk-file)
 
 # Free Course
 https://github.com/source-academy/sicp  Structure and Interpretation of Computer Programs, Second Edition, JavaScript Adaptation
@@ -597,3 +598,62 @@ https://www.linuxbabe.com/ubuntu/ubuntu-stubby-dns-over-tls
 
 # flatpak
 https://github.com/flatpak/flatpak/issues/3712
+
+# Analyze apk file
+tools: https://ibotpeaches.github.io/Apktool/
+
+```
+apktool d app-arm64-v8a-release.apk
+```
+
+list of files
+```
+[fahmad@ryzen app-arm64-v8a-release]$  ls -lh
+total 28K
+-rw-rw-r--.   1 fahmad fahmad 9.2K Mar 29 09:02 AndroidManifest.xml
+-rw-rw-r--.   1 fahmad fahmad 1.4K Mar 29 09:02 apktool.yml
+drwxrwxr-x.   4 fahmad fahmad   58 Mar 29 09:02 assets
+drwxrwxr-x.   3 fahmad fahmad   23 Mar 29 09:02 lib
+drwxrwxr-x.   3 fahmad fahmad   49 Mar 29 09:02 original
+drwxrwxr-x. 144 fahmad fahmad 4.0K Mar 29 09:02 res
+drwxrwxr-x.  18 fahmad fahmad  181 Mar 29 09:02 smali
+drwxrwxr-x.   3 fahmad fahmad 4.0K Mar 29 09:02 unknown
+```
+check env variables
+```
+cd smali/com/appname
+cat BuildConfig.smali
+
+
+.class public final Lcom/appname/BuildConfig;
+.super Ljava/lang/Object;
+.source ""
+
+
+# static fields
+.field public static final APPLICATION_ID:Ljava/lang/String; = "com.appname"
+
+.field public static final BUILD_TYPE:Ljava/lang/String; = "release"
+
+.field public static final DEBUG:Z = false
+
+.field public static final REACT_APP_SOMETHING_SOMETHING:Ljava/lang/String; = "something-something"
+
+.field public static final REACT_APP_BASE_URL:Ljava/lang/String; = "https://url-endpoint.com"
+
+.field public static final VERSION_CODE:I = 0x3ec
+
+.field public static final VERSION_NAME:Ljava/lang/String; = "1.0"
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+```
+
