@@ -118,6 +118,8 @@ https://medium.com/androiddevelopers/practical-proguard-rules-examples-5640a3907
 
 # Other
 [Mereka menyoroti penerapan syariat Islam di Aceh](https://www.bbc.com/indonesia/berita_indonesia/2015/08/150817_indonesia_gam_syariatislam.amp)
+https://www.joelonsoftware.com/
+https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/
 
 # Notes
 
