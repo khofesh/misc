@@ -97,6 +97,7 @@ https://github.com/source-academy/sicp  Structure and Interpretation of Computer
 52. https://rytisbiel.com/2021/03/06/darker-corners-of-go/ (Darker Corners of Go)
 53. https://nivo.rocks/components (nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries.)
 54. https://goplus.org/ (GoPlus - The Go+ language for data science)
+55. https://pdf.math.dev/ (PDFs from HTML)
 
 proguard:
 https://medium.com/androiddevelopers/practical-proguard-rules-examples-5640a3907dc9 (Practical ProGuard rules examples)
