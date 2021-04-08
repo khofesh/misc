@@ -29,6 +29,7 @@ contains links to websites' contents that I find interesting.
 - [Stubby on fedora](#stubby-on-fedora)
 - [Flatpak](#flatpak)
 - [Analyze apk file](#analyze-apk-file)
+- [Access iphone data](access-iphone-data)
 
 # Free Course
 https://github.com/source-academy/sicp  Structure and Interpretation of Computer Programs, Second Edition, JavaScript Adaptation
@@ -664,3 +665,18 @@ cat BuildConfig.smali
 
 ```
 
+# Access iphone data
+
+```
+idevicepair pair
+
+usbmuxd -f -v
+
+sudo dnf install ifuse
+
+sudo mkdir /media/iphone
+ifuse /media/iphone
+
+```
+
+https://www.maketecheasier.com/easily-mount-your-iphone-as-an-external-drive-in-ubuntu/
