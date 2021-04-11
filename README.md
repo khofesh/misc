@@ -2,7 +2,7 @@
 contains links to websites' contents that I find interesting.
 
 # Table of Contents:
-[Free Course](#free-course) \
+[Free Courses](#free-courses) \
 [Tutorials](#tutorials) \
 [Interesting](#interesting) \
 [Investment](#investment) \
@@ -31,7 +31,8 @@ contains links to websites' contents that I find interesting.
 - [Analyze apk file](#analyze-apk-file)
 - [Access iphone data](access-iphone-data)
 
-# Free Course
+https://www.udemy.com/share/101Woe/ Mastering Data Structures & Algorithms using C and C++ 
+# Free Courses
 https://github.com/source-academy/sicp  Structure and Interpretation of Computer Programs, Second Edition, JavaScript Adaptation
 
 https://developer.android.com/courses android courses
