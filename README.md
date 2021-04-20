@@ -109,6 +109,8 @@ https://developer.android.com/courses android courses
 58. https://career-ladders.dev/engineering/ (Career Ladders)
 59. https://teguh.co/derita-pelanggan-indihome-sudah-bayar-datanya-malah-dicuri/
 60. https://zone-h.org/
+61. http://www.pvv.org/~hakonhal/main.cgi/c/classes/ (classes in c)
+62. https://www.ojk.go.id/id/kanal/perbankan/Pages/Sistem-Layanan-Informasi-Keuangan-SLIK.aspx (Sistem Layanan Informasi Keuangan (SLIK))
 
 proguard:
 https://medium.com/androiddevelopers/practical-proguard-rules-examples-5640a3907dc9 (Practical ProGuard rules examples)
