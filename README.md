@@ -107,6 +107,8 @@ https://developer.android.com/courses android courses
 56. https://reactioncommerce.com/ (Reaction Commerce is an API-first, modular commerce stack made for ambitious brands and retailers. Reaction’s service-based architecture is built to deliver flexibility and freedom at scale.)
 57. https://cheesecakelabs.com/blog/efficient-way-structure-react-native-projects/ (An efficient way to structure React Native projects)
 58. https://career-ladders.dev/engineering/ (Career Ladders)
+59. https://teguh.co/derita-pelanggan-indihome-sudah-bayar-datanya-malah-dicuri/
+60. https://zone-h.org/
 
 proguard:
 https://medium.com/androiddevelopers/practical-proguard-rules-examples-5640a3907dc9 (Practical ProGuard rules examples)
