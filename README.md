@@ -113,6 +113,7 @@ https://developer.android.com/courses android courses
 62. https://www.ojk.go.id/id/kanal/perbankan/Pages/Sistem-Layanan-Informasi-Keuangan-SLIK.aspx (Sistem Layanan Informasi Keuangan (SLIK))
 63. https://github.com/wbkd/react-flow (Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams)
 64. https://www.computer.org/education/bodies-of-knowledge/software-engineering (Software Engineering Body of Knowledge (SWEBOK))
+65. https://react-typescript-cheatsheet.netlify.app/ (React TypeScript Cheatsheets)
 
 
 proguard:
