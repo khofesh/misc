@@ -114,6 +114,7 @@ https://developer.android.com/courses android courses
 63. https://github.com/wbkd/react-flow (Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams)
 64. https://www.computer.org/education/bodies-of-knowledge/software-engineering (Software Engineering Body of Knowledge (SWEBOK))
 65. https://react-typescript-cheatsheet.netlify.app/ (React TypeScript Cheatsheets)
+66. https://engineering.fb.com/2021/04/05/video-engineering/how-facebook-encodes-your-videos/ (How Facebook encodes your videos)
 
 
 proguard:
