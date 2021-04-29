@@ -115,6 +115,7 @@ https://developer.android.com/courses android courses
 64. https://www.computer.org/education/bodies-of-knowledge/software-engineering (Software Engineering Body of Knowledge (SWEBOK))
 65. https://react-typescript-cheatsheet.netlify.app/ (React TypeScript Cheatsheets)
 66. https://engineering.fb.com/2021/04/05/video-engineering/how-facebook-encodes-your-videos/ (How Facebook encodes your videos)
+67. https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed (GitHub stars won’t pay your rent)
 
 
 proguard:
