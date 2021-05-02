@@ -30,3 +30,9 @@ then add this token to your BSC wallet https://bscscan.com/token/0x2170ed0880ac9
 https://www.reddit.com/r/Metamask/comments/kooms2/sent_eth_as_bep20_in_the_binance_smart_chain_to/
 
 https://metamask.zendesk.com/hc/en-us/community/posts/360073207331-Accidently-sent-ETH-with-BEP20-transfer-network
+
+# ERRORS
+
+## Source file requires different compiler version
+
+https://ethereum.stackexchange.com/questions/87106/how-to-fix-solidity-version-missmatch-from-visual-studio-code
