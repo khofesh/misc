@@ -30,6 +30,7 @@ contains links to websites' contents that I find interesting.
 - [Flatpak](#flatpak)
 - [Analyze apk file](#analyze-apk-file)
 - [Access iphone data](#access-iphone-data)
+- [Insomnia token environment variable](#insomnia-token-environment-variable)
 
 https://www.udemy.com/share/101Woe/ Mastering Data Structures & Algorithms using C and C++ 
 
@@ -699,3 +700,7 @@ ifuse /media/iphone
 ```
 
 https://www.maketecheasier.com/easily-mount-your-iphone-as-an-external-drive-in-ubuntu/
+
+# Insomnia token environment variable
+
+https://stackoverflow.com/questions/63520613/how-to-chain-requests-using-insomnia-get-token-from-login-api-to-use-as-header
