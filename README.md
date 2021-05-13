@@ -118,6 +118,7 @@ https://developer.android.com/courses android courses
 66. https://engineering.fb.com/2021/04/05/video-engineering/how-facebook-encodes-your-videos/ (How Facebook encodes your videos)
 67. https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed (GitHub stars won’t pay your rent)
 68. https://github.com/Schniz/fnm (Fast and simple Node.js version manager, built in Rust)
+69. https://moneyweek.com/investments/alternative-finance/bitcoin/602678/bitcoin-energy-consumption (Bitcoin does consume a lot of energy – but here’s why it’s worth it)
 
 
 proguard:
