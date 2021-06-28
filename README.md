@@ -122,6 +122,8 @@ https://developer.android.com/courses android courses
 68. https://github.com/Schniz/fnm (Fast and simple Node.js version manager, built in Rust)
 69. https://moneyweek.com/investments/alternative-finance/bitcoin/602678/bitcoin-energy-consumption (Bitcoin does consume a lot of energy – but here’s why it’s worth it)
 70. https://github.com/typescript-cheatsheets/react (typescript cheatsheets)
+71. https://stackoverflow.com/questions/49785592/bearer-token-in-postman (save token to variable on postman)
+72. https://learning.postman.com/docs/sending-requests/authorization/
 
 
 proguard:
