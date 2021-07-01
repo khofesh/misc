@@ -712,7 +712,8 @@ https://www.maketecheasier.com/easily-mount-your-iphone-as-an-external-drive-in-
 
 https://stackoverflow.com/questions/63520613/how-to-chain-requests-using-insomnia-get-token-from-login-api-to-use-as-header
 
-# How To Find The Package That Provides A Specific File In Linux (Fedora)
+# How To Find The Package That Provides A Specific File In Linux
 ```
 dnf provides /usr/bin/dig
 ```
+https://ostechnix.com/find-package-provides-specific-file-linux/
