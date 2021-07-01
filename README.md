@@ -31,6 +31,7 @@ contains links to websites' contents that I find interesting.
 - [Analyze apk file](#analyze-apk-file)
 - [Access iphone data](#access-iphone-data)
 - [Insomnia token environment variable](#insomnia-token-environment-variable)
+- [How To Find The Package That Provides A Specific File In Linux](#how-to-find-the-package-that-provides-a-specific-file-in-linux)
 
 https://www.udemy.com/share/101Woe/ Mastering Data Structures & Algorithms using C and C++ 
 
@@ -710,3 +711,8 @@ https://www.maketecheasier.com/easily-mount-your-iphone-as-an-external-drive-in-
 # Insomnia token environment variable
 
 https://stackoverflow.com/questions/63520613/how-to-chain-requests-using-insomnia-get-token-from-login-api-to-use-as-header
+
+# How To Find The Package That Provides A Specific File In Linux (Fedora)
+```
+dnf provides /usr/bin/dig
+```
