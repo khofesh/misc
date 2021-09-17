@@ -14,4 +14,10 @@ https://beebom.com/disable-ads-bloatware-push-notifications-miui-11/
 
 https://forum.xda-developers.com/t/bootloop-after-debloat.3922267/
 
+safe to remove
+
+https://technastic.com/xiaomi-bloatware-list-miui/
+
+https://forum.xda-developers.com/t/packages-which-are-safe-to-remove-and-a-few-problems.4006171/
+
 ## Warning!!: Never uninstall SECURITY and FIND DEVICE  app.
