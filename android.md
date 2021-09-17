@@ -13,3 +13,5 @@ https://www.reddit.com/r/Xiaomi/comments/iill6v/how_to_change_lockscreen_wallpap
 https://beebom.com/disable-ads-bloatware-push-notifications-miui-11/
 
 https://forum.xda-developers.com/t/bootloop-after-debloat.3922267/
+
+## Warning!!: Never uninstall SECURITY and FIND DEVICE  app.
