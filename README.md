@@ -32,6 +32,7 @@ contains links to websites' contents that I find interesting.
 - [Access iphone data](#access-iphone-data)
 - [Insomnia token environment variable](#insomnia-token-environment-variable)
 - [How To Find The Package That Provides A Specific File In Linux](#how-to-find-the-package-that-provides-a-specific-file-in-linux)
+- [Packagekit consumes memory](#packagekit-consumes-memory)
 
 https://www.udemy.com/share/101Woe/ Mastering Data Structures & Algorithms using C and C++ 
 
@@ -718,3 +719,17 @@ https://stackoverflow.com/questions/63520613/how-to-chain-requests-using-insomni
 dnf provides /usr/bin/dig
 ```
 https://ostechnix.com/find-package-provides-specific-file-linux/
+
+# Packagekit consumes memory
+
+```shell
+systemctl stop packagekit
+
+systemctl disable packagekit
+```
+
+https://askubuntu.com/questions/1065507/what-is-packagekitd-and-how-do-i-make-the-software-updater-stop-waiting-for-it
+
+https://docs.fedoraproject.org/en-US/Fedora/15/html/Deployment_Guide/ch-PackageKit.html
+
+https://www.reddit.com/r/Fedora/comments/gcv6as/is_there_a_way_to_disable_packagekit/
