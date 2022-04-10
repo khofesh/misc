@@ -733,3 +733,17 @@ https://askubuntu.com/questions/1065507/what-is-packagekitd-and-how-do-i-make-th
 https://docs.fedoraproject.org/en-US/Fedora/15/html/Deployment_Guide/ch-PackageKit.html
 
 https://www.reddit.com/r/Fedora/comments/gcv6as/is_there_a_way_to_disable_packagekit/
+
+# Too many open files - Failed to initialize inotify
+https://stackoverflow.com/a/38486048
+
+```shell
+cat /proc/sys/fs/inotify/max_user_instances
+
+echo 256 > /proc/sys/fs/inotify/max_user_instances
+```
+In order to make that change permanent add a line to /etc/sysctl.conf:
+
+```shell
+fs.inotify.max_user_instances = 256
+```
