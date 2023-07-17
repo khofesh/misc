@@ -13,3 +13,21 @@ Alternatively, you can use the command `umount /path/to/mount/point`, this will 
 $ sudo cryptsetup luksClose /dev/mapper/myvol-backup1
 $ sudo cryptsetup luksClose /dev/mapper/myvol-backup2
 ```
+
+# encrypt wd purple
+
+```
+fdisk /dev/sdd
+lsblk
+cryptsetup -y -v luksFormat /dev/sdd1
+cryptsetup open /dev/sdd1 wdpurple
+mkfs.ext4 /dev/mapper/wdpurple 
+mount /dev/mapper/wdpurple /mnt/wdpurple/
+umount /mnt/wdpurple 
+cryptsetup close wdpurple
+
+rsync -aAXHv --exclude={"./container/*"} /media/ext4/ /run/media/xxxxxxx/
+```
+
+- https://wiki.archlinux.org/title/Fdisk
+- https://wiki.archlinux.org/title/dm-crypt/Encrypting_an_entire_system
