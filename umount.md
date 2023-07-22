@@ -31,3 +31,36 @@ rsync -aAXHv --exclude={"./container/*"} /media/ext4/ /run/media/xxxxxxx/
 
 - https://wiki.archlinux.org/title/Fdisk
 - https://wiki.archlinux.org/title/dm-crypt/Encrypting_an_entire_system
+
+# wd blue
+
+```shell
+su
+fdisk /dev/sdc
+dd if=/dev/random of=/etc/luks-keys/wdhome bs=1 count=256 status=progress
+cryptsetup luksFormat -v /dev/sdc1 /etc/luks-keys/wdhome
+cryptsetup -d /etc/luks-keys/wdhome open /dev/sdc1 wdhome
+ls /dev/mapper
+mkfs.btrfs -L "wd_blue-home" /dev/mapper/wdhome
+mount /dev/mapper/wdhome /mnt/wdhome/
+blkid /dev/sdc1
+vim /etc/crypttab
+    ```
+    wdhome                  UUID=XXXXX                              /etc/luks-keys/wdhome
+    ```
+mkdir /media/wdhome
+mount /dev/mapper/wdhome /media/wdhome/    
+blkid /dev/mapper/wdhome
+vim /etc/fstab
+    ```
+    UUID=YYYYY /media/wdhome           btrfs    ssd,noatime,x-systemd.device-timeout=0 0 0
+    ```
+```
+
+- https://wiki.archlinux.org/title/btrfs
+- https://wiki.archlinux.org/title/dm-crypt/Encrypting_an_entire_system#Encrypting_logical_volume_/home
+- https://kifarunix.com/automount-luks-encrypted-device-in-linux/
+- https://www.cyberciti.biz/faq/how-to-find-and-delete-directory-recursively-on-linux-or-unix-like-system/
+- https://opensource.com/article/20/11/btrfs-linux
+- https://www.thegeekdiary.com/centos-rhel-how-to-create-and-mount-btrfs-file-system-explained-with-examples/
+- https://blog.programster.org/btrfs-cheatsheet
