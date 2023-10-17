@@ -52,6 +52,8 @@ https://developer.android.com/courses android courses
 # Tutorials
 1. [Exploiting Buffer (nodejs)](https://snyk.io/blog/exploiting-buffer/)
 2. [Goof vulnerable app](https://github.com/snyk/goof)
+3. [github - project-based learning](https://github.com/practical-tutorials/project-based-learning)
+4. [https://blog.sanctum.geek.nz/series/unix-as-ide/](Unix as IDE)
 
 # Interesting
 1. https://capacitorjs.com/ (A cross-platform native runtime for web apps.)
